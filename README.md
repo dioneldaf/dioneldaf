@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm dio</h1>
-<h3 align="center">A passionate desktop developer from Cuba</h3>
+<h3 align="center">Desktop developer from Cuba</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dioneldaf&label=Profile%20views&color=0e75b6&style=flat" alt="dioneldaf" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dioneldaf" alt="dioneldaf" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dionel_a_f" target="blank"><img src="https://img.shields.io/twitter/follow/dionel_a_f?logo=twitter&style=for-the-badge" alt="dionel_a_f" /></a> </p>
 
